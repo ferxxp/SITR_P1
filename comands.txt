@@ -46,3 +46,49 @@
    46  git push -u origin main
    47  git push https://ferxxp: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@github.com/ferxxp/SITR_P1.git
    48  history>comands.txt
+   49  ls
+   50  git add .
+   51  git push https://ferxxp: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@github.com/ferxxp/SITR_P1.git
+   52  git commit
+   53  git push https://ferxxp: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@github.com/ferxxp/SITR_P1.git
+   54  git add .
+   55  git commit
+   56  git push https://ferxxp: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@github.com/ferxxp/SITR_P1.git
+   57  man gcc
+   58  help gcc
+   59  gcc help
+   60  gcc -help
+   61  gcc -I main.c
+   62  gcc -c main.c -I
+   63  gcc -c main.c -I.
+   64  ls
+   65  gcc -c main.c func1.c func2.c -I.
+   66  ls
+   67  gcc -o main.o func1.o func2.o
+   68  nano main.c
+   69  gcc main.o func1.o func2.o
+   70  gcc main.c func1.c func2.c
+   71  gcc main.c -I func1.c func2.c
+   72  gcc main.c -I.
+   73  gcc -o programa main.o func1.o func2.o
+   74  gcc -c main.c func1.c func2.c -I.
+   75  gcc -o programa main.o func1.o func2.o
+   76  ./programa 
+   77  gdb
+   78  apt-get install gdb
+   79  gdb
+   80  nano Makefile
+   81  make
+   82  nano Makefile
+   83  make
+   84  nano Makefile
+   85  make
+   86  nano Makefile
+   87  make
+   88  cd parte2
+   89  nano punteros.c
+   90  >>gcc -g -o puntero punteros.c
+   91  gcc -g -o puntero punteros.c
+   92  gdb puntero
+   93  cd ..
+   94  history>comands.txt
